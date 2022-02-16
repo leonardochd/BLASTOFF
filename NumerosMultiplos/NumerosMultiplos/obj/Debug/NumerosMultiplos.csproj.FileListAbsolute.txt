@@ -1,0 +1,8 @@
+C:\Users\Leonardo\source\repos\NumerosMultiplos\NumerosMultiplos\bin\Debug\NumerosMultiplos.exe.config
+C:\Users\Leonardo\source\repos\NumerosMultiplos\NumerosMultiplos\bin\Debug\NumerosMultiplos.exe
+C:\Users\Leonardo\source\repos\NumerosMultiplos\NumerosMultiplos\bin\Debug\NumerosMultiplos.pdb
+C:\Users\Leonardo\source\repos\NumerosMultiplos\NumerosMultiplos\obj\Debug\NumerosMultiplos.csproj.AssemblyReference.cache
+C:\Users\Leonardo\source\repos\NumerosMultiplos\NumerosMultiplos\obj\Debug\NumerosMultiplos.csproj.SuggestedBindingRedirects.cache
+C:\Users\Leonardo\source\repos\NumerosMultiplos\NumerosMultiplos\obj\Debug\NumerosMultiplos.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo\source\repos\NumerosMultiplos\NumerosMultiplos\obj\Debug\NumerosMultiplos.exe
+C:\Users\Leonardo\source\repos\NumerosMultiplos\NumerosMultiplos\obj\Debug\NumerosMultiplos.pdb

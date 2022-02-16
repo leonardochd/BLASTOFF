@@ -1,0 +1,7 @@
+C:\Users\Leonardo\source\repos\Fatorial\Fatorial\bin\Debug\Fatorial.exe.config
+C:\Users\Leonardo\source\repos\Fatorial\Fatorial\bin\Debug\Fatorial.exe
+C:\Users\Leonardo\source\repos\Fatorial\Fatorial\bin\Debug\Fatorial.pdb
+C:\Users\Leonardo\source\repos\Fatorial\Fatorial\obj\Debug\Fatorial.csproj.SuggestedBindingRedirects.cache
+C:\Users\Leonardo\source\repos\Fatorial\Fatorial\obj\Debug\Fatorial.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo\source\repos\Fatorial\Fatorial\obj\Debug\Fatorial.exe
+C:\Users\Leonardo\source\repos\Fatorial\Fatorial\obj\Debug\Fatorial.pdb

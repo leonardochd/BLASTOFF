@@ -1,0 +1,8 @@
+C:\Users\Leonardo\source\repos\CparaF\CparaF\bin\Debug\CparaF.exe.config
+C:\Users\Leonardo\source\repos\CparaF\CparaF\bin\Debug\CparaF.exe
+C:\Users\Leonardo\source\repos\CparaF\CparaF\bin\Debug\CparaF.pdb
+C:\Users\Leonardo\source\repos\CparaF\CparaF\obj\Debug\CparaF.csproj.AssemblyReference.cache
+C:\Users\Leonardo\source\repos\CparaF\CparaF\obj\Debug\CparaF.csproj.SuggestedBindingRedirects.cache
+C:\Users\Leonardo\source\repos\CparaF\CparaF\obj\Debug\CparaF.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo\source\repos\CparaF\CparaF\obj\Debug\CparaF.exe
+C:\Users\Leonardo\source\repos\CparaF\CparaF\obj\Debug\CparaF.pdb

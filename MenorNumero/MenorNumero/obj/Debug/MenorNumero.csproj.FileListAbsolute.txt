@@ -1,0 +1,7 @@
+C:\Users\Leonardo\source\repos\MenorNumero\MenorNumero\bin\Debug\MenorNumero.exe.config
+C:\Users\Leonardo\source\repos\MenorNumero\MenorNumero\bin\Debug\MenorNumero.exe
+C:\Users\Leonardo\source\repos\MenorNumero\MenorNumero\bin\Debug\MenorNumero.pdb
+C:\Users\Leonardo\source\repos\MenorNumero\MenorNumero\obj\Debug\MenorNumero.csproj.SuggestedBindingRedirects.cache
+C:\Users\Leonardo\source\repos\MenorNumero\MenorNumero\obj\Debug\MenorNumero.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo\source\repos\MenorNumero\MenorNumero\obj\Debug\MenorNumero.exe
+C:\Users\Leonardo\source\repos\MenorNumero\MenorNumero\obj\Debug\MenorNumero.pdb

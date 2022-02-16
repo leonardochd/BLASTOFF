@@ -1,0 +1,8 @@
+C:\Users\Leonardo\source\repos\NumeroPrimo\NumeroPrimo\bin\Debug\NumeroPrimo.exe.config
+C:\Users\Leonardo\source\repos\NumeroPrimo\NumeroPrimo\bin\Debug\NumeroPrimo.exe
+C:\Users\Leonardo\source\repos\NumeroPrimo\NumeroPrimo\bin\Debug\NumeroPrimo.pdb
+C:\Users\Leonardo\source\repos\NumeroPrimo\NumeroPrimo\obj\Debug\NumeroPrimo.csproj.AssemblyReference.cache
+C:\Users\Leonardo\source\repos\NumeroPrimo\NumeroPrimo\obj\Debug\NumeroPrimo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Leonardo\source\repos\NumeroPrimo\NumeroPrimo\obj\Debug\NumeroPrimo.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo\source\repos\NumeroPrimo\NumeroPrimo\obj\Debug\NumeroPrimo.exe
+C:\Users\Leonardo\source\repos\NumeroPrimo\NumeroPrimo\obj\Debug\NumeroPrimo.pdb

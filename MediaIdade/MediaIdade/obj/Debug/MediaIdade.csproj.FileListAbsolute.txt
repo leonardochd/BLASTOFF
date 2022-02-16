@@ -1,0 +1,8 @@
+C:\Users\Leonardo\source\repos\MediaIdade\MediaIdade\bin\Debug\MediaIdade.exe.config
+C:\Users\Leonardo\source\repos\MediaIdade\MediaIdade\bin\Debug\MediaIdade.exe
+C:\Users\Leonardo\source\repos\MediaIdade\MediaIdade\bin\Debug\MediaIdade.pdb
+C:\Users\Leonardo\source\repos\MediaIdade\MediaIdade\obj\Debug\MediaIdade.csproj.AssemblyReference.cache
+C:\Users\Leonardo\source\repos\MediaIdade\MediaIdade\obj\Debug\MediaIdade.csproj.SuggestedBindingRedirects.cache
+C:\Users\Leonardo\source\repos\MediaIdade\MediaIdade\obj\Debug\MediaIdade.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo\source\repos\MediaIdade\MediaIdade\obj\Debug\MediaIdade.exe
+C:\Users\Leonardo\source\repos\MediaIdade\MediaIdade\obj\Debug\MediaIdade.pdb

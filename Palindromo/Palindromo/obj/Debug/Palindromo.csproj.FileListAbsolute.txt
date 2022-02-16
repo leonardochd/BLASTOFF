@@ -1,0 +1,7 @@
+C:\Users\Leonardo\source\repos\Palindromo\Palindromo\bin\Debug\Palindromo.exe.config
+C:\Users\Leonardo\source\repos\Palindromo\Palindromo\bin\Debug\Palindromo.exe
+C:\Users\Leonardo\source\repos\Palindromo\Palindromo\bin\Debug\Palindromo.pdb
+C:\Users\Leonardo\source\repos\Palindromo\Palindromo\obj\Debug\Palindromo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Leonardo\source\repos\Palindromo\Palindromo\obj\Debug\Palindromo.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo\source\repos\Palindromo\Palindromo\obj\Debug\Palindromo.exe
+C:\Users\Leonardo\source\repos\Palindromo\Palindromo\obj\Debug\Palindromo.pdb

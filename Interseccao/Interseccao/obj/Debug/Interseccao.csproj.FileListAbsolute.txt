@@ -1,0 +1,8 @@
+C:\Users\Leonardo\source\repos\Interseccao\Interseccao\bin\Debug\Interseccao.exe.config
+C:\Users\Leonardo\source\repos\Interseccao\Interseccao\bin\Debug\Interseccao.exe
+C:\Users\Leonardo\source\repos\Interseccao\Interseccao\bin\Debug\Interseccao.pdb
+C:\Users\Leonardo\source\repos\Interseccao\Interseccao\obj\Debug\Interseccao.csproj.AssemblyReference.cache
+C:\Users\Leonardo\source\repos\Interseccao\Interseccao\obj\Debug\Interseccao.csproj.SuggestedBindingRedirects.cache
+C:\Users\Leonardo\source\repos\Interseccao\Interseccao\obj\Debug\Interseccao.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo\source\repos\Interseccao\Interseccao\obj\Debug\Interseccao.exe
+C:\Users\Leonardo\source\repos\Interseccao\Interseccao\obj\Debug\Interseccao.pdb
