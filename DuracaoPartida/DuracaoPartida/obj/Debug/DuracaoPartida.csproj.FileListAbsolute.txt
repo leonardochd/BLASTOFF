@@ -1,0 +1,8 @@
+C:\Users\Leonardo\source\repos\DuracaoPartida\DuracaoPartida\bin\Debug\DuracaoPartida.exe.config
+C:\Users\Leonardo\source\repos\DuracaoPartida\DuracaoPartida\bin\Debug\DuracaoPartida.exe
+C:\Users\Leonardo\source\repos\DuracaoPartida\DuracaoPartida\bin\Debug\DuracaoPartida.pdb
+C:\Users\Leonardo\source\repos\DuracaoPartida\DuracaoPartida\obj\Debug\DuracaoPartida.csproj.AssemblyReference.cache
+C:\Users\Leonardo\source\repos\DuracaoPartida\DuracaoPartida\obj\Debug\DuracaoPartida.csproj.SuggestedBindingRedirects.cache
+C:\Users\Leonardo\source\repos\DuracaoPartida\DuracaoPartida\obj\Debug\DuracaoPartida.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo\source\repos\DuracaoPartida\DuracaoPartida\obj\Debug\DuracaoPartida.exe
+C:\Users\Leonardo\source\repos\DuracaoPartida\DuracaoPartida\obj\Debug\DuracaoPartida.pdb
