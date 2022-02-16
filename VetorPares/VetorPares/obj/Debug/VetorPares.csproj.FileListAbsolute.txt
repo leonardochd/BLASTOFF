@@ -1,0 +1,8 @@
+C:\Users\Leonardo\source\repos\VetorPares\VetorPares\bin\Debug\VetorPares.exe.config
+C:\Users\Leonardo\source\repos\VetorPares\VetorPares\bin\Debug\VetorPares.exe
+C:\Users\Leonardo\source\repos\VetorPares\VetorPares\bin\Debug\VetorPares.pdb
+C:\Users\Leonardo\source\repos\VetorPares\VetorPares\obj\Debug\VetorPares.csproj.AssemblyReference.cache
+C:\Users\Leonardo\source\repos\VetorPares\VetorPares\obj\Debug\VetorPares.csproj.SuggestedBindingRedirects.cache
+C:\Users\Leonardo\source\repos\VetorPares\VetorPares\obj\Debug\VetorPares.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo\source\repos\VetorPares\VetorPares\obj\Debug\VetorPares.exe
+C:\Users\Leonardo\source\repos\VetorPares\VetorPares\obj\Debug\VetorPares.pdb
